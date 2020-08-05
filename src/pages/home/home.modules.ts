@@ -3,8 +3,8 @@ import { NgModule } from '@angular/core';
 import { HomePage } from './home';
 
 @NgModule({
-    declarations:[HomePage],
+    declarations: [HomePage],
     imports: [IonicPageModule.forChild(HomePage)]
 })
 
-export class HomeModule{}
+export class HomeModule {}
